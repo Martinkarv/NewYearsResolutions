@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\NewYearsResolutions\NewYearsResolutions\bin\Debug\NewYearsResolutions.exe.config
+C:\Users\karvm\source\repos\NewYearsResolutions\NewYearsResolutions\bin\Debug\NewYearsResolutions.exe
+C:\Users\karvm\source\repos\NewYearsResolutions\NewYearsResolutions\bin\Debug\NewYearsResolutions.pdb
+C:\Users\karvm\source\repos\NewYearsResolutions\NewYearsResolutions\obj\Debug\NewYearsResolutions.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\NewYearsResolutions\NewYearsResolutions\obj\Debug\NewYearsResolutions.exe
+C:\Users\karvm\source\repos\NewYearsResolutions\NewYearsResolutions\obj\Debug\NewYearsResolutions.pdb
